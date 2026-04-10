@@ -1,0 +1,7 @@
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 1\zadanie 1\bin\Debug\zadanie 1.exe.config
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 1\zadanie 1\bin\Debug\zadanie 1.exe
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 1\zadanie 1\bin\Debug\zadanie 1.pdb
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 1\zadanie 1\obj\Debug\zadanie 1.csproj.AssemblyReference.cache
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 1\zadanie 1\obj\Debug\zadanie 1.csproj.CoreCompileInputs.cache
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 1\zadanie 1\obj\Debug\zadanie 1.exe
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 1\zadanie 1\obj\Debug\zadanie 1.pdb

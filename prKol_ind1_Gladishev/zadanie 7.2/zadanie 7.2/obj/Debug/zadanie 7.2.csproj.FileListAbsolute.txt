@@ -1,0 +1,10 @@
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 7.2\zadanie 7.2\bin\Debug\zadanie 7.2.exe.config
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 7.2\zadanie 7.2\bin\Debug\zadanie 7.2.exe
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 7.2\zadanie 7.2\bin\Debug\zadanie 7.2.pdb
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 7.2\zadanie 7.2\obj\Debug\zadanie 7.2.csproj.AssemblyReference.cache
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 7.2\zadanie 7.2\obj\Debug\zadanie_7._2.Form1.resources
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 7.2\zadanie 7.2\obj\Debug\zadanie_7._2.Properties.Resources.resources
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 7.2\zadanie 7.2\obj\Debug\zadanie 7.2.csproj.GenerateResource.cache
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 7.2\zadanie 7.2\obj\Debug\zadanie 7.2.csproj.CoreCompileInputs.cache
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 7.2\zadanie 7.2\obj\Debug\zadanie 7.2.exe
+C:\ГладышевПР_21\prKol_ind1_Gladishev\zadanie 7.2\zadanie 7.2\obj\Debug\zadanie 7.2.pdb
