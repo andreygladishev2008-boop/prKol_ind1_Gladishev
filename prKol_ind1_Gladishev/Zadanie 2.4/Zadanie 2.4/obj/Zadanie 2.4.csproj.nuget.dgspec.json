@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\andry\\Downloads\\prKol_ind1_Gladishev-main\\prKol_ind1_Gladishev\\Zadanie 2.4\\Zadanie 2.4\\Zadanie 2.4.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\andry\\Downloads\\prKol_ind1_Gladishev-main\\prKol_ind1_Gladishev\\Zadanie 2.4\\Zadanie 2.4\\Zadanie 2.4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\andry\\Downloads\\prKol_ind1_Gladishev-main\\prKol_ind1_Gladishev\\Zadanie 2.4\\Zadanie 2.4\\Zadanie 2.4.csproj",
+        "projectName": "Zadanie 2.4",
+        "projectPath": "C:\\Users\\andry\\Downloads\\prKol_ind1_Gladishev-main\\prKol_ind1_Gladishev\\Zadanie 2.4\\Zadanie 2.4\\Zadanie 2.4.csproj",
+        "packagesPath": "C:\\Users\\andry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\andry\\Downloads\\prKol_ind1_Gladishev-main\\prKol_ind1_Gladishev\\Zadanie 2.4\\Zadanie 2.4\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\andry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0-windows7.0": {
+            "targetAlias": "net5.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net5.0-windows7.0": {
+          "targetAlias": "net5.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.312\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,7 @@
+C:\ГладышевПР_21\prKol_ind1_Gladishev\Zadanie 2.4\Zadanie 2.4\obj\Debug\net5.0-windows\Zadanie 2.4.csproj.AssemblyReference.cache
+C:\ГладышевПР_21\prKol_ind1_Gladishev\Zadanie 2.4\Zadanie 2.4\obj\Debug\net5.0-windows\ArrayApp.Form1.resources
+C:\ГладышевПР_21\prKol_ind1_Gladishev\Zadanie 2.4\Zadanie 2.4\obj\Debug\net5.0-windows\Zadanie 2.4.csproj.GenerateResource.cache
+C:\ГладышевПР_21\prKol_ind1_Gladishev\Zadanie 2.4\Zadanie 2.4\obj\Debug\net5.0-windows\Zadanie 2.4.GeneratedMSBuildEditorConfig.editorconfig
+C:\ГладышевПР_21\prKol_ind1_Gladishev\Zadanie 2.4\Zadanie 2.4\obj\Debug\net5.0-windows\Zadanie 2.4.AssemblyInfoInputs.cache
+C:\ГладышевПР_21\prKol_ind1_Gladishev\Zadanie 2.4\Zadanie 2.4\obj\Debug\net5.0-windows\Zadanie 2.4.AssemblyInfo.cs
+C:\ГладышевПР_21\prKol_ind1_Gladishev\Zadanie 2.4\Zadanie 2.4\obj\Debug\net5.0-windows\Zadanie 2.4.csproj.CoreCompileInputs.cache

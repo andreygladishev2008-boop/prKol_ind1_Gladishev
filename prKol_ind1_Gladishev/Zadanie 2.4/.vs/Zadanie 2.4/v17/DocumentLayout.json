@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andry\\Downloads\\prKol_ind1_Gladishev-main\\prKol_ind1_Gladishev\\Zadanie 2.4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE22227D-F1C1-4F89-9E6E-3B7DAAB992F9}|Zadanie 2.4\\Zadanie 2.4.csproj|c:\\users\\andry\\downloads\\prkol_ind1_gladishev-main\\prkol_ind1_gladishev\\zadanie 2.4\\zadanie 2.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CE22227D-F1C1-4F89-9E6E-3B7DAAB992F9}|Zadanie 2.4\\Zadanie 2.4.csproj|solutionrelative:zadanie 2.4\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE22227D-F1C1-4F89-9E6E-3B7DAAB992F9}|Zadanie 2.4\\Zadanie 2.4.csproj|c:\\users\\andry\\downloads\\prkol_ind1_gladishev-main\\prkol_ind1_gladishev\\zadanie 2.4\\zadanie 2.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE22227D-F1C1-4F89-9E6E-3B7DAAB992F9}|Zadanie 2.4\\Zadanie 2.4.csproj|solutionrelative:zadanie 2.4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE22227D-F1C1-4F89-9E6E-3B7DAAB992F9}|Zadanie 2.4\\Zadanie 2.4.csproj|c:\\users\\andry\\downloads\\prkol_ind1_gladishev-main\\prkol_ind1_gladishev\\zadanie 2.4\\zadanie 2.4\\onedimensionalarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE22227D-F1C1-4F89-9E6E-3B7DAAB992F9}|Zadanie 2.4\\Zadanie 2.4.csproj|solutionrelative:zadanie 2.4\\onedimensionalarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\andry\\Downloads\\prKol_ind1_Gladishev-main\\prKol_ind1_Gladishev\\Zadanie 2.4\\Zadanie 2.4\\Form1.cs",
+              "RelativeDocumentMoniker": "Zadanie 2.4\\Form1.cs",
+              "ToolTip": "C:\\Users\\andry\\Downloads\\prKol_ind1_Gladishev-main\\prKol_ind1_Gladishev\\Zadanie 2.4\\Zadanie 2.4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Zadanie 2.4\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:11:25.231Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OneDimensionalArray.cs",
+              "DocumentMoniker": "C:\\Users\\andry\\Downloads\\prKol_ind1_Gladishev-main\\prKol_ind1_Gladishev\\Zadanie 2.4\\Zadanie 2.4\\OneDimensionalArray.cs",
+              "RelativeDocumentMoniker": "Zadanie 2.4\\OneDimensionalArray.cs",
+              "ToolTip": "C:\\Users\\andry\\Downloads\\prKol_ind1_Gladishev-main\\prKol_ind1_Gladishev\\Zadanie 2.4\\Zadanie 2.4\\OneDimensionalArray.cs",
+              "RelativeToolTip": "Zadanie 2.4\\OneDimensionalArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:11:22.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andry\\Downloads\\prKol_ind1_Gladishev-main\\prKol_ind1_Gladishev\\Zadanie 2.4\\Zadanie 2.4\\Program.cs",
+              "RelativeDocumentMoniker": "Zadanie 2.4\\Program.cs",
+              "ToolTip": "C:\\Users\\andry\\Downloads\\prKol_ind1_Gladishev-main\\prKol_ind1_Gladishev\\Zadanie 2.4\\Zadanie 2.4\\Program.cs",
+              "RelativeToolTip": "Zadanie 2.4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-24T15:11:21.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
